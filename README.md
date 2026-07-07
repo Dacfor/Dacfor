@@ -22,12 +22,6 @@
 
 </div>
 
-<div align="center">
-
-&nbsp;
-
-</div>
-
 ---
 
 ## About
@@ -118,6 +112,56 @@ Committed to writing maintainable, well-documented, and testable code, with an e
   </div>
 
 </details>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/Dacfor">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dacfor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+</a>
+
+<a href="https://github.com/Dacfor">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dacfor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</a>
+
+<a href="https://github.com/Dacfor">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dacfor&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</a>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dacfor&theme=onedark&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dacfor&theme=react-dark&hide_border=true&area=true&color=8A2BE2&line=4B0082&point=8A2BE2" alt="Activity Graph" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Dacfor/Dacfor/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
