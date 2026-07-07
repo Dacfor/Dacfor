@@ -45,7 +45,7 @@ Committed to writing maintainable, well-documented, and testable code, with an e
 | Cybersecurity | Secure code review, threat detection, vulnerability analysis, secure-by-design architecture |
 | Cloud Engineering | Cloud-native application design, API integration, infrastructure automation |
 | Full-Stack Development | Backend services, API design, scalable application architecture |
-| Computer Vision | Real-time image/video processing, object and pattern detection pipelines |
+| Computer Vision | Real-time image/video processing, object detection, pose estimation, motion tracking |
 
 ---
 
@@ -61,6 +61,16 @@ Committed to writing maintainable, well-documented, and testable code, with an e
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
+</div>
+
+### Computer Vision
+
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch%20Vision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 
 ### Backend & Databases
@@ -124,7 +134,7 @@ Committed to writing maintainable, well-documented, and testable code, with an e
 </a>
 
 <a href="https://github.com/Dacfor">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dacfor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=Dacfor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </a>
 
 <a href="https://github.com/Dacfor">
@@ -139,7 +149,7 @@ Committed to writing maintainable, well-documented, and testable code, with an e
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dacfor&theme=onedark&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Dacfor&theme=onedark&margin-w=8&margin-h=8&column=4&no-frame=true" alt="GitHub Trophies" />
 
 </div>
 
@@ -161,6 +171,10 @@ Committed to writing maintainable, well-documented, and testable code, with an e
 
 ![Snake animation](https://raw.githubusercontent.com/Dacfor/Dacfor/output/github-contribution-grid-snake.svg)
 
+</div>
+
+<div align="center">
+<sub>Snake animation requires the <code>snk</code> GitHub Action enabled on the <code>Dacfor/Dacfor</code> profile repository to generate this SVG automatically.</sub>
 </div>
 
 ---
